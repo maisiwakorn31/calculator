@@ -1,5 +1,3 @@
-com\example\SimpleAdder.class
-com\example\SimpleReactiveAdderWithHistory$1.class
-com\example\SimpleReactiveAdder.class
-com\example\SimpleReactiveAdderWithHistory.class
-com\example\SimpleReactiveAdderWithHistory$IntegerPair.class
+com\lab\SimpleAdder.class
+module-info.class
+com\lab\SystemInfo.class

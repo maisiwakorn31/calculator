@@ -1,4 +1,4 @@
-package com.example;
+package com.lab;
 
 import java.util.Random;
 
@@ -27,7 +27,7 @@ public class SimpleAdder extends Application {
     private Label labelA;
     private Label labelB;
     private Label outputLabel;
-    private Label warningLabel; // ประกาศ warningLabel เป็น instance variable
+    private Label warningLabel; 
     private Node outputRow;
     private ComboBox<String> operationComboBox;
 

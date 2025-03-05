@@ -1,27 +1,28 @@
 .root {
-  text-color: #424242;
-  bg-color: #F5F5F5;
-  banner-text-color: #FFFFFF;
-  banner-bg-color: #6633BB;
-
-  -fx-text-fill: text-color;
-  -fx-background-color: bg-color;
-}
-
-.button {
-  -fx-text-fill: banner-text-color;
-  -fx-background-color: RED;
-  -fx-font-weight: bold;
-}
-
-.heading-label {
-  -fx-text-fill: banner-text-color;
-  -fx-background-color: banner-bg-color;
-  -fx-font-size: 24px;
-  -fx-font-weight: bold;
-}
-
-.warning {
-  -fx-text-fill: #FF5100;
-  -fx-font-weight: bold;
-}
+    text-color: #424242;
+    bg-color: #F5F5F5;
+    banner-text-color: #FFFFFF;
+    banner-bg-color: #6633BB;
+  
+    -fx-text-fill: text-color;
+    -fx-background-color: bg-color;
+  }
+  
+  .button {
+    -fx-text-fill: banner-text-color;
+    -fx-background-color: RED;
+    -fx-font-weight: bold;
+  }
+  
+  .heading-label {
+    -fx-text-fill: banner-text-color;
+    -fx-background-color: banner-bg-color;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+  }
+  
+  .warning {
+    -fx-text-fill: #FF5100;
+    -fx-font-weight: bold;
+  }
+  
